@@ -1,0 +1,27 @@
+{
+  "Command": "run",
+  "Type": "DVC-State",
+  "Version": "0.1",
+  "Argv": [
+    "python",
+    "code/evaluate.py",
+    "data/model.py",
+    "data/matrix-test.py",
+    "data/evaluation.txt"
+  ],
+  "Cwd": ".",
+  "CreatedAt": "2017-09-09 17:52:32 +0900",
+  "InputFiles": [
+    "data/matrix-test.py",
+    "data/model.py"
+  ],
+  "OutputFiles": [
+    "data/evaluation.txt"
+  ],
+  "CodeDependencies": [
+    "code/evaluate.py"
+  ],
+  "Stdout": null,
+  "Stderr": null,
+  "Shell": false
+}
