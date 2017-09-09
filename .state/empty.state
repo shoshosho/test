@@ -1,0 +1,17 @@
+{
+  "Command": "empty",
+  "Type": "DVC-State",
+  "Version": "0.1",
+  "Argv": [
+    "/Users/01017387/anaconda/bin/dvc init",
+    "init"
+  ],
+  "Cwd": ".",
+  "CreatedAt": "2017-09-09 17:44:45 +0900",
+  "InputFiles": [],
+  "OutputFiles": [],
+  "CodeDependencies": [],
+  "Stdout": null,
+  "Stderr": null,
+  "Shell": false
+}
