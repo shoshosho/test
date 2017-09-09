@@ -11,10 +11,10 @@
     "data/matrix-test.p"
   ],
   "Cwd": ".",
-  "CreatedAt": "2017-09-09 18:11:08 +0900",
+  "CreatedAt": "2017-09-09 18:13:07 +0900",
   "InputFiles": [
-    "data/Posts-test.tsv",
-    "data/Posts-train.tsv"
+    "data/Posts-train.tsv",
+    "data/Posts-test.tsv"
   ],
   "OutputFiles": [
     "data/matrix-test.p",
