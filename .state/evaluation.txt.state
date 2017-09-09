@@ -10,10 +10,10 @@
     "data/evaluation.txt"
   ],
   "Cwd": ".",
-  "CreatedAt": "2017-09-09 18:06:14 +0900",
+  "CreatedAt": "2017-09-09 18:11:08 +0900",
   "InputFiles": [
-    "data/model.p",
-    "data/matrix-test.p"
+    "data/matrix-test.p",
+    "data/model.p"
   ],
   "OutputFiles": [
     "data/evaluation.txt"
