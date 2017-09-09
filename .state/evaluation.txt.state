@@ -5,15 +5,15 @@
   "Argv": [
     "python",
     "code/evaluate.py",
-    "data/model.py",
-    "data/matrix-test.py",
+    "data/model.p",
+    "data/matrix-test.p",
     "data/evaluation.txt"
   ],
   "Cwd": ".",
-  "CreatedAt": "2017-09-09 17:52:32 +0900",
+  "CreatedAt": "2017-09-09 18:06:14 +0900",
   "InputFiles": [
-    "data/matrix-test.py",
-    "data/model.py"
+    "data/model.p",
+    "data/matrix-test.p"
   ],
   "OutputFiles": [
     "data/evaluation.txt"
